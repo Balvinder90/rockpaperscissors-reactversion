@@ -4,7 +4,7 @@
 
 #### React Version Link -  https://rockpaperscissorsreactjs.netlify.app/
 
-#### Vanilla JS Version Link - https://balvindersinghportfolio.netlify.app/sites/rps/
+#### Vanilla JS Version Link - https://github.com/Balvinder90/rockpaperscissors
 
 #### What was used to build the game
 
