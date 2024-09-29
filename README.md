@@ -1,16 +1,8 @@
-# rockpaperscissors-reactversion
+# React + Vite
 
-### Rock Paper Scissors game converted from vanilla JS to React
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-#### Game Link (React Version) - https://rockpaperscissorsreactjs.netlify.app/
+Currently, two official plugins are available:
 
-#### Game Link (JS Version) - https://github.com/Balvinder90/rockpaperscissors
-
-#### What was used to build the game
-
-1. HTML
-2. SCSS
-3. React
-7. JavaScript
-4. BEM Convention
-5. Figma
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
