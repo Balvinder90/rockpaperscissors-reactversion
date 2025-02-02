@@ -11,7 +11,7 @@
 1. HTML
 2. SCSS
 3. React
-7. JavaScript
-4. BEM Convention
-5. Figma
+4. JavaScript
+5. BEM Convention
+6. Figma
 
