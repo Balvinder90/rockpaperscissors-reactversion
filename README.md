@@ -1,6 +1,6 @@
 # Rock Paper Scissors Game
 
-### Rock Paper Scissors converted from my existing vanilla JS version to React
+### Rock Paper Scissors converted from my existing vanilla JS version to React.
 
 #### React Version Link -  https://rockpaperscissorsreactjs.netlify.app/
 
